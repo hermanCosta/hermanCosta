@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hermanCosta
-- 👀 I’m interested in C#, Java, SQL Server.
-- 🌱 I’m currently learning .NET, Java
-- 👨🏽‍💻 I’m looking to collaborate on beginner projects of the technologies above.
+- 👀 I’m interested in C#, Java, Oracle
+- 🌱 I’m currently learning .NET Core
+- 👨🏽‍💻 I’m looking to collaborate projects of the technologies above.
 - 📫 How to reach me
     EMAIL: hermanhgc@gmail.com
 
