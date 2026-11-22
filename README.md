@@ -1,5 +1,5 @@
 - @hermanCosta
-- Keen on in .Net, Oracle
+- Keen on being challenging
 - Learning AI for Devs
 
 
